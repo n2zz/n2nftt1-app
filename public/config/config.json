@@ -1,18 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0xbda490ecfb436973b33b790db04d24518738eb8a",
+  "SCAN_LINK": "https://baobab.scope.klaytn.com/nft/0xbda490ecfb436973b33b790db04d24518738eb8a?tabId=nftTransfer",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "NAME": "Baobab",
+    "VERSION": 1001,
+    "SYMBOL": "Klay",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "N2NFT Test 1",
+  "SYMBOL": "N2NFTT1",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/n2nft-test-1",
   "SHOW_BACKGROUND": true
 }
